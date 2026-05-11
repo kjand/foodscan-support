@@ -4,7 +4,7 @@
 
 FoodScan is an iPhone app that checks ingredient lists against your personal rules — scan a barcode, point the camera at a label, or paste text manually.
 
-[Support](support) · [Privacy Policy](privacy)
+[Support](support.md) · [Privacy Policy](privacy.md)
 
 ---
 
@@ -38,7 +38,7 @@ Have a question or found a bug? Visit the [support page](support) or email **mmp
 
 FoodScan er en iPhone-app som sjekker ingredienslister mot dine personlige regler — skann en strekkode, pek kameraet mot en etikett, eller lim inn tekst manuelt.
 
-[Støtte](support) · [Personvernerklæring](privacy)
+[Støtte](support.md) · [Personvernerklæring](privacy.md)
 
 ---
 
