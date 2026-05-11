@@ -1,1 +1,0 @@
-# foodscan-support
