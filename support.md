@@ -125,7 +125,7 @@ When you scan a barcode, only the barcode number is sent to Open Food Facts to l
 
 Have a question not answered here, or found a bug?
 
-Email: **loso68@gmail.com**
+Email: **mmproductions@online.no**
 
 ---
 
@@ -258,4 +258,4 @@ Når du skanner en strekkode, sendes kun strekkodenummeret til Open Food Facts f
 
 Har du et spørsmål som ikke er besvart her, eller har du funnet en feil?
 
-E-post: **loso68@gmail.com**
+E-post: **mmproductions@online.no**
