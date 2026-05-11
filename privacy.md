@@ -37,7 +37,7 @@ You can delete all locally stored data at any time from **Settings → Delete al
 
 ## Contact
 
-Questions about privacy? Contact: mmproductions@online.no
+Questions about privacy? Contact: loso68@gmail.com
 
 ---
 
@@ -80,4 +80,4 @@ Du kan slette alle lokalt lagrede data når som helst fra **Innstillinger → Sl
 
 ## Kontakt
 
-Spørsmål om personvern? Kontakt: mmproductions@online.no
+Spørsmål om personvern? Kontakt: loso68@gmail.com
