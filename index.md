@@ -26,7 +26,7 @@ Available on the App Store for iPhone.
 
 ## Support
 
-Have a question or found a bug? Visit the [support page](support) or email **loso68@gmail.com**.
+Have a question or found a bug? Visit the [support page](support) or email **mmproductions@online.no**.
 
 ---
 
@@ -59,4 +59,4 @@ Tilgjengelig på App Store for iPhone.
 
 ## Støtte
 
-Har du spørsmål eller funnet en feil? Besøk [støttesiden](support) eller send e-post til **loso68@gmail.com**.
+Har du spørsmål eller funnet en feil? Besøk [støttesiden](support) eller send e-post til **mmproductions@online.no**.
